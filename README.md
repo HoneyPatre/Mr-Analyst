@@ -11,6 +11,7 @@
 - python
 - matplotlib
 - tkinter
+- pandas
 
 ## Install
 
